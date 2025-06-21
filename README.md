@@ -1,13 +1,22 @@
-Cognizant Java FSE DeepSkilling – Mandatory Hands-on Projects
-Welcome to the official repository for Cognizant's Java Full Stack Engineer DeepSkilling Program. This repository includes all the mandatory hands-on exercises and mini projects that form part of your journey to mastering full stack development using Java and related technologies.
+# Cognizant Java FSE DeepSkilling – Mandatory Hands-on Projects
 
-About:
+Welcome to the official repository for **Cognizant's Java Full Stack Engineer DeepSkilling Program**. This repository includes all the **mandatory hands-on exercises** and **mini projects** that are part of your journey toward mastering **Full Stack Development** using Java and related technologies.
 
-This repository is designed to help you reinforce core concepts through hands-on implementation. It covers multiple foundational exercises aligned with key topics such as:
+---
 
-Object-Oriented Programming and Design Patterns
-Data Structures & Algorithms
-Design Principles (SOLID, DRY, etc.)
-Enterprise Java (Spring Boot, REST APIs)
-Frontend Basics (HTML, CSS, JavaScript)
-Full-stack integration
+## 📌 About This Repository
+
+This repository is designed to help you reinforce core concepts through **hands-on implementation**. It covers a wide range of foundational exercises aligned with key topics:
+
+### 🔧 Core Topics Covered
+
+- **Object-Oriented Programming** and **Design Patterns**
+- **Data Structures & Algorithms**
+- **Design Principles** (e.g., SOLID, DRY, KISS)
+- **Enterprise Java** (Spring Boot, RESTful APIs)
+- **Frontend Basics** (HTML, CSS, JavaScript)
+- **Full-Stack Integration**
+
+---
+
+Use this repository to **practice**, **explore**, and **build confidence** in your skills as a Full Stack Java Developer.
