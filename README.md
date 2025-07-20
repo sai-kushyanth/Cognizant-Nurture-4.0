@@ -4,11 +4,19 @@ Welcome to the official repository for **Cognizant's Java Full Stack Engineer De
 
 ---
 
+<<<<<<< HEAD
 ## About This Repository
 
 This repository is designed to help you reinforce core concepts through **hands-on implementation**. It covers a wide range of foundational exercises aligned with key topics:
 
 ### Core Topics Covered
+=======
+## 📌 About This Repository
+
+This repository is designed to help you reinforce core concepts through **hands-on implementation**. It covers a wide range of foundational exercises aligned with key topics:
+
+### 🔧 Core Topics Covered
+>>>>>>> 0d61581697d4f50c113b133ab8d2a778bf3f4bff
 
 - **Object-Oriented Programming** and **Design Patterns**
 - **Data Structures & Algorithms**

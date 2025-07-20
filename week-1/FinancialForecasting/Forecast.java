@@ -21,7 +21,11 @@ public class Forecast {
         double rate = 0.10;
         int years = 5;
 
+<<<<<<< HEAD
         System.out.println("Recursive Forecast:");
+=======
+        System.out.println("🔁 Recursive Forecast:");
+>>>>>>> 0d61581697d4f50c113b133ab8d2a778bf3f4bff
         double result = futureValueRecursive(initial, rate, years);
         System.out.printf("Future value after %d years: ₹%.2f\n", years, result);
 
